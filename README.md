@@ -17,5 +17,6 @@ This repository contains a collection of **50 mini-projects** built over **50 co
 Below is a list of all projects completed as part of the **50 Days, 50 Projects** challenge. Each row includes:
 
 | 🔢 S.No | 🏗️ Project Name         | 🌐 Live Link                                |
-|--------|--------------------------|---------------------------------------------|
+|---------|--------------------------|---------------------------------------------|
 | 1      | Expanding Cards          | [Live Demo](https://expandingcards-tau.vercel.app/)   |
+| 2      | Progress Bar             | [Live Demo](https://progressbar-ashen.vercel.app/)   |
