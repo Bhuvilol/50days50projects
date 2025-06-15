@@ -18,4 +18,4 @@ Below is a list of all projects completed as part of the **50 Days, 50 Projects*
 
 | 🔢 S.No | 🏗️ Project Name         | 🌐 Live Link                                |
 |--------|--------------------------|---------------------------------------------|
-| 1      | Expanding Cards          | [Live Demo](expandingcards-5bdyim7qa-bhuvilols-projects.vercel.app)   |
+| 1      | Expanding Cards          | [Live Demo](https://expandingcards-tau.vercel.app/)   |
