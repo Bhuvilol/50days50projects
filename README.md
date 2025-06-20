@@ -20,4 +20,5 @@ Below is a list of all projects completed as part of the **50 Days, 50 Projects*
 |---------|--------------------------|-------------------------------------------------------|
 | 1       | Expanding Cards          | [Live Demo](https://expandingcards-tau.vercel.app/)   |
 | 2       | Progress Bar             | [Live Demo](https://progressbar-ashen.vercel.app/)    |
-| 2       | Rotating Navigation      | [Live Demo](https://rotatingnavigation.vercel.app/)   |
+| 3       | Rotating Navigation      | [Live Demo](https://rotatingnavigation.vercel.app/)   |
+| 4       | Hidden Search Widget     | [Live Demo](https://hiddensearch-theta.vercel.app/)   |
