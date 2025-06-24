@@ -23,3 +23,5 @@ Below is a list of all projects completed as part of the **50 Days, 50 Projects*
 | 3       | Rotating Navigation      | [Live Demo](https://rotatingnavigation.vercel.app/)        |
 | 4       | Hidden Search Widget     | [Live Demo](https://hiddensearch-theta.vercel.app/)        |
 | 5       | Blurry Loading Page      | [Live Demo](https://blurryloadingpage-hazel.vercel.app/)   |
+| 6       | Scrolling Animation      | [Live Demo](https://scrollanimation-six.vercel.app/)       |
+
